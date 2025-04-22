@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/">
+        <file>applications.xml</file>
+    </qresource>
+</RCC>

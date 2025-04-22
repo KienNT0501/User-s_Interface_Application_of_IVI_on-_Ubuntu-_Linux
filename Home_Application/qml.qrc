@@ -1,0 +1,65 @@
+<RCC>
+    <qresource prefix="/">
+        <file>App/ASM4/Image/album_art.png</file>
+        <file>App/ASM4/Image/back.png</file>
+        <file>App/ASM4/Image/background.png</file>
+        <file>App/ASM4/Image/Bui-Anh-Tuan.png</file>
+        <file>App/ASM4/Image/center_point.png</file>
+        <file>App/ASM4/Image/drawer.png</file>
+        <file>App/ASM4/Image/drawer_p.png</file>
+        <file>App/ASM4/Image/Ha-Anh-Tuan.png</file>
+        <file>App/ASM4/Image/hold-next.png</file>
+        <file>App/ASM4/Image/hold-pause.png</file>
+        <file>App/ASM4/Image/hold-play.png</file>
+        <file>App/ASM4/Image/hold-prev.png</file>
+        <file>App/ASM4/Image/hold.png</file>
+        <file>App/ASM4/Image/Hongkong1.png</file>
+        <file>App/ASM4/Image/music.png</file>
+        <file>App/ASM4/Image/next.png</file>
+        <file>App/ASM4/Image/pause.png</file>
+        <file>App/ASM4/Image/Phố không mùa Bùi Anh Tuấn.png</file>
+        <file>App/ASM4/Image/play.png</file>
+        <file>App/ASM4/Image/playing.png</file>
+        <file>App/ASM4/Image/playlist.png</file>
+        <file>App/ASM4/Image/playlist_item.png</file>
+        <file>App/ASM4/Image/point.png</file>
+        <file>App/ASM4/Image/prev.png</file>
+        <file>App/ASM4/Image/progress_bar.png</file>
+        <file>App/ASM4/Image/progress_bar_bg.png</file>
+        <file>App/ASM4/Image/repeat.png</file>
+        <file>App/ASM4/Image/repeat1_hold.png</file>
+        <file>App/ASM4/Image/shuffle-1.png</file>
+        <file>App/ASM4/Image/shuffle.png</file>
+        <file>App/ASM4/Image/title.png</file>
+        <file>App/ASM4/Image/us.png</file>
+        <file>App/ASM4/Image/USB Mussic.png</file>
+        <file>App/ASM4/Image/vn.png</file>
+        <file>App/ASM4/AppHeader.qml</file>
+        <file>App/ASM4/main.qml</file>
+        <file>App/ASM4/MButton.qml</file>
+        <file>App/ASM4/MButtonPlaylist.qml</file>
+        <file>App/ASM4/MediaInfoControl.qml</file>
+        <file>App/ASM4/OnOffButton.qml</file>
+        <file>App/ASM4/PlayedMusic.qml</file>
+        <file>App/ASM4/PlaylistView.qml</file>
+        <file>App/ASM4/SwitchButton.qml</file>
+        <file>App/ASM4/translate_us.qm</file>
+        <file>App/ASM4/translate_us.ts</file>
+        <file>App/ASM4/translate_vn.qm</file>
+        <file>App/ASM4/translate_vn.ts</file>
+        <file>Home_Screen_QML/AppButton.qml</file>
+        <file>Home_Screen_QML/AppHeader.qml</file>
+        <file>Home_Screen_QML/BButton.qml</file>
+        <file>Home_Screen_QML/ClimateWidget.qml</file>
+        <file>Home_Screen_QML/HomeWidget.qml</file>
+        <file>Home_Screen_QML/main.qml</file>
+        <file>Home_Screen_QML/MapWidget.qml</file>
+        <file>Home_Screen_QML/MediaWidget.qml</file>
+        <file>App/Phone/Phone.qml</file>
+        <file>App/Radio/Radio.qml</file>
+        <file>App/Setting/Setting.qml</file>
+        <file>App/Video/Video.qml</file>
+        <file>App/Map/Map.qml</file>
+        <file>App/Climate_qml/Climate.qml</file>
+    </qresource>
+</RCC>
